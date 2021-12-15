@@ -16,6 +16,7 @@
 2. [Openshift PT](https://paas-master-west-np.tsl.telus.com/console/project/mediation-usageapi-raw/overview)
 3. [Udemy](https://telus-2.udemy.com/organization/home/)
 4. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
+
 ### Tools
 1. [Swagger editor](https://editor.swagger.io/)
 2. [Asana Todo](https://app.asana.com/0/home/1199136359795992)
