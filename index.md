@@ -47,6 +47,7 @@
 
 ### B2B PR
 - [B2B Private PR Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cio-gke-private-yul-001-2396bd&pageState=(%22savedViews%22:(%22i%22:%22e2cf5cb11fab499989e04d2f388eace4%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22%5D)))
-- [B2B NP Pubsub](https://console.cloud.google.com/cloudpubsub/subscription/list?project=cio-mediation-data-pr-8087d8)
-- [B2B NP GCS](https://console.cloud.google.com/storage/browser?project=cio-mediation-data-pr-8087d8&prefix=)
+- [B2B PR Cloud Function](https://console.cloud.google.com/functions/list?project=cio-mediation-data-pr-8087d8)
+- [B2B PR Pubsub](https://console.cloud.google.com/cloudpubsub/subscription/list?project=cio-mediation-data-pr-8087d8)
+- [B2B PR GCS](https://console.cloud.google.com/storage/browser?project=cio-mediation-data-pr-8087d8&prefix=)
 - [B2B PR Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/0705a23f-2e53-4d91-904b-8dd19d0b1894?project=cio-stackdriver-pr-7f46b3&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
