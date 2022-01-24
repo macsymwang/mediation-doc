@@ -2,6 +2,7 @@
   - [Personal](#personal)
     - [Telus](#telus)
     - [Tools](#tools)
+    - [Cloud](#cloud)
   - [CAMP Documentations](#camp-documentations)
   - [CAMP Env Links](#camp-env-links)
     - [Common Libs](#common-libs)
@@ -16,13 +17,19 @@
 2. [Openshift PT](https://paas-master-west-np.tsl.telus.com/console/project/mediation-usageapi-raw/overview)
 3. [Udemy](https://telus-2.udemy.com/organization/home/)
 4. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
-
+5. [tTime](https://go/ttime)
 ### Tools
 1. [Swagger editor](https://editor.swagger.io/)
 2. [Asana Todo](https://app.asana.com/0/home/1199136359795992)
 3. [Google Translate](https://translate.google.ca/)
 4. [Json Viewer](http://jsonviewer.stack.hu/)
    
+### Cloud 
+1. [Cloud COE](https://sites.google.com/telus.com/cloudcoe/home) 
+2. [API development](https://go/api)
+3. [OnBoard new Project](https://onboard.cloudapps.telus.com/onboard/home)
+4. [KONG gateway](https://go/dev)
+
 ## CAMP Documentations
 1. [MediationCloudPlatform Drive](https://drive.google.com/drive/folders/0ACFC9yOWQ1duUk9PVA)
 2. [CAMP Agent Documentation](https://drive.google.com/file/d/1eRjdvl8m5X5hsEOXTpnL8Dq3ueDWD5H2/view?usp=sharing)
