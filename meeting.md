@@ -8,3 +8,4 @@
 | Erica      | [dkk-sate-ojo](https://meet.google.com/dkk-sate-ojo) |
 | Open Forum | [mic-seuy-dmf](https://meet.google.com/mic-seuy-dmf) |
 | Shermin    | [aeq-fzgg-pws](https://meet.google.com/aeq-fzgg-pws) |
+| Sujit      | [fcg-qgus-gqm](https://meet.google.com/fcg-qgus-gqm) |
