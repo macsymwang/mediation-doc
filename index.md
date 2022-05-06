@@ -32,6 +32,8 @@
 3. [OnBoard new Project](https://onboard.cloudapps.telus.com/onboard/home)
 4. [KONG gateway](https://go/dev)
 5. [COE Document](https://github.com/telus/cloud-coe-documentation)
+6. [Developer onBoard](onboard.md)
+
 ## CAMP Documentations
 1. [MediationCloudPlatform Drive](https://drive.google.com/drive/folders/0ACFC9yOWQ1duUk9PVA)
 2. [CAMP Agent Documentation](https://drive.google.com/file/d/1eRjdvl8m5X5hsEOXTpnL8Dq3ueDWD5H2/view?usp=sharing)

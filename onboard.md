@@ -13,6 +13,9 @@ B2B Project
 https://drive.google.com/drive/u/0/folders/1Q9Ysmn-7fjToKjC_OCOTWhJt1N-baluA
 
 
+## Local env setup
+1. [setup up local env](https://developers.telus.com/guides/setting-up-your-local-development-environment/requesting-local-admin-access)
+
 ## Github Code Repository
 1. common components, branch V.0.0
 https://github.com/telus/cio-mediation-common
