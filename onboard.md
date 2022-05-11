@@ -35,7 +35,4 @@ https://console.cloud.google.com/home/dashboard?project=cio-mediation-data-np-c0
 PR env:
 https://console.cloud.google.com/home/dashboard?project=cio-mediation-data-pr-8087d8
 
-### Access Issues
-1. For TI memeber to access GCP console from go/accessnow request
-2. 
 
