@@ -1,0 +1,52 @@
+{
+    "root": {
+        "data": {
+            "id": "cjwy9bu0b6g0",
+            "created": 1652274023855,
+            "text": "Telus"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjwya4sb0io0",
+                    "created": 1652274086878,
+                    "text": "Cloud Monitoring"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjwyacp854w0",
+                            "created": 1652274104107,
+                            "text": "      logging metrics"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjwyawa4e1s0",
+                                    "created": 1652274146729,
+                                    "text": "cio-gke-private-yul-001",
+                                    "hyperlink": "https://github.com/telus/tf-config-cio-gke-private-yul-001",
+                                    "hyperlinkTitle": "cio-gke-private-yul-001"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjwybficr2w0",
+                                    "created": 1652274188585,
+                                    "text": "GCP Doc",
+                                    "hyperlink": "https://cloud.google.com/logging/docs/logs-based-metrics",
+                                    "hyperlinkTitle": "Google Doc"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
