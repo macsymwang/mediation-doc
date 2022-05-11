@@ -48,6 +48,37 @@
                             "created": 1652274479056,
                             "text": "alert"
                         },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjwz0a6ya400",
+                                    "created": 1652276136116,
+                                    "text": "1. Define Notification Emails ",
+                                    "hyperlink": "https://github.com/telus/tf-infra-cio-stackdriver/tree/master/terraform/notification",
+                                    "hyperlinkTitle": "Email List"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjx0cg7z9iw0",
+                                    "created": 1652279910719,
+                                    "text": "2. Alert Policy ",
+                                    "hyperlink": "https://github.com/telus/tf-infra-cio-stackdriver/tree/master/terraform/policy",
+                                    "hyperlinkTitle": "Policy"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjx0d4s6e6w0",
+                            "created": 1652279964183,
+                            "text": "Dashboard ",
+                            "hyperlink": "https://github.com/telus/tf-infra-cio-stackdriver/tree/master/terraform/dashboard",
+                            "hyperlinkTitle": "Dashboard"
+                        },
                         "children": []
                     }
                 ]
