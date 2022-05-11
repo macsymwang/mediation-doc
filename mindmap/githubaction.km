@@ -98,7 +98,18 @@
                             "hyperlink": "https://telus-cdo.slack.com/archives/C034X7PDS21/p1648838103719719",
                             "hyperlinkTitle": "Steps"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjx0emqjv9s0",
+                                    "created": 1652280081631,
+                                    "text": "Upgrade Cluster ",
+                                    "hyperlink": "https://telus-cdo.slack.com/archives/C034X7PDS21/p1651239188391689",
+                                    "hyperlinkTitle": "Upgrade"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
