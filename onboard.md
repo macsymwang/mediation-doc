@@ -5,6 +5,7 @@
 2. Added in GCP Project by go/onboard -> browse project 
 3. For TI memeber to access GCP console from go/accessnow request google workspace  
 4. [Request Access to old GKE cluster](https://github.com/telus/tf-config-cio-gke-private-yul-001/blob/master/namespace/mediation-control.tf)
+5. [GKE viewer group](https://github.com/telus/tf-infra-gcp-groups/blob/master/terraform/gke/opus-gke-dev-viewer.json)
 
 ## CAMP Documentation:
 CAMP Architecture:
