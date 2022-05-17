@@ -25,6 +25,7 @@
 3. [Google Translate](https://translate.google.ca/)
 5. [Json Visio](https://jsonvisio.com/editor)
 6. [Json Viewer](https://jsonhero.io/)
+7. [Regular Expression](https://regex101.com/)
    
 ### Cloud 
 1. [Cloud COE](https://sites.google.com/telus.com/cloudcoe/home) 
