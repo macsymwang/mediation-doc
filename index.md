@@ -33,6 +33,7 @@
 4. [KONG gateway](https://go/dev)
 5. [COE Document](https://github.com/telus/cloud-coe-documentation)
 6. [Developer onBoard](onboard.md)
+7. [Cloud Braintrust](https://sites.google.com/telus.com/cloudbraintrust/home)
 
 ## CAMP Documentations
 1. [MediationCloudPlatform Drive](https://drive.google.com/drive/folders/0ACFC9yOWQ1duUk9PVA)
