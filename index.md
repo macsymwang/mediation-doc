@@ -32,13 +32,14 @@
    
 ### Cloud 
 1. [Cloud COE](https://sites.google.com/telus.com/cloudcoe/home) 
-2. [API development](https://go/api)
-3. [OnBoard new Project](https://onboard.cloudapps.telus.com/onboard/home)
-4. [KONG gateway](https://go/dev)
-5. [COE Document](https://github.com/telus/cloud-coe-documentation)
-6. [Developer onBoard](onboard.md)
-7. [Cloud Braintrust](https://sites.google.com/telus.com/cloudbraintrust/home)
-8. [Migrating from OpenShift to Google Kubernetes Engine Playbook](https://github.com/telus/engineering-productivity/blob/main/flows-to-gcp/openshift-gke-flow.md)
+2. [cloud Brain Trust](https://sites.google.com/telus.com/cloudbraintrust/home)
+3. [API development](https://go/api)
+4. [OnBoard new Project](https://onboard.cloudapps.telus.com/onboard/home)
+5. [KONG gateway](https://go/dev)
+6. [COE Document](https://github.com/telus/cloud-coe-documentation)
+7. [Developer onBoard](onboard.md)
+8. [Cloud Braintrust](https://sites.google.com/telus.com/cloudbraintrust/home)
+9. [Migrating from OpenShift to Google Kubernetes Engine Playbook](https://github.com/telus/engineering-productivity/blob/main/flows-to-gcp/openshift-gke-flow.md)
 
 ## CAMP Documentations
 1. [MediationCloudPlatform Drive](https://drive.google.com/drive/folders/0ACFC9yOWQ1duUk9PVA)
