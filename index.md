@@ -65,6 +65,7 @@
 - [B2B NP Pubsub](https://console.cloud.google.com/cloudpubsub/topic/list?project=cio-mediation-data-np-c0f674)
 - [B2B NP GCS](https://console.cloud.google.com/storage/browser?project=cio-mediation-data-np-c0f674&prefix=)
 - [B2B NP Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/d6567607-cacf-49fa-8575-7c743f4cdbdd?project=cio-stackdriver-np-b75434&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
+- [B2B Terraform repository](https://github.com/telus/tf-infra-cio-mediation-data)
 
 ### B2B PR
 - [B2B Private PR Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cio-gke-private-yul-001-2396bd&pageState=(%22savedViews%22:(%22i%22:%22e2cf5cb11fab499989e04d2f388eace4%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22%5D)))
@@ -77,6 +78,7 @@
 - [Stoplight](https://telus-next.stoplight.io/tsbt/usage-management-tmf635-entity/version%2F4.0)
 - [Spinnaker](https://spinnaker.cloudapps.telus.com/#/applications/usage-management-tmf635-entity/executions)
 - [Private NP Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cdo-gke-private-np-1a8686&pageState=(%22savedViews%22:(%22i%22:%2298bcc51e80db4f2fb277d4711c458e76%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22%5D)) )
+- [Private CDO NP Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cdo-gke-private-np-1a8686&pageState=(%22savedViews%22:(%22i%22:%2298bcc51e80db4f2fb277d4711c458e76%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22,%22mediation-usage%22%5D)))
 - [Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/2ae9924d-83a8-4064-9efd-d48d08422aa0?project=cio-stackdriver-np-b75434&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
 - [WHSIA Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-whsia)
 - [TMF635 Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-enterprise)
