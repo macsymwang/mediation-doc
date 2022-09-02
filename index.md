@@ -50,6 +50,7 @@
 
 ## CAMP Env Links
 ### Common Libs
+- [Mediation Cloud Initiative Jira Board](https://jira.tsl.telus.com/projects/MCI/issues/MCI-80?filter=allopenissues)
 - [Spinnaker](https://spinnaker.cloudapps.telus.com/#/applications/mediation-data/executions) 
 - [Common Service Build](https://console.cloud.google.com/cloud-build/builds?project=cio-mediation-np-41371c)
 - [cio-mediation-np](https://console.cloud.google.com/home/dashboard?project=cio-mediation-np-41371c)
