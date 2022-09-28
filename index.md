@@ -79,5 +79,6 @@
 - [Private CDO NP Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cdo-gke-private-np-1a8686&pageState=(%22savedViews%22:(%22i%22:%2298bcc51e80db4f2fb277d4711c458e76%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22,%22mediation-usage%22%5D)))
 - [Private CDO PR Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cdo-gke-private-pr-7712d7&pageState=(%22savedViews%22:(%22i%22:%2223bbc92a158d4eddb55ed18fee839b87%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22,%22mediation-usage%22%5D)))
 - [Dashboard NP](https://console.cloud.google.com/monitoring/dashboards/builder/2ae9924d-83a8-4064-9efd-d48d08422aa0?project=cio-stackdriver-np-b75434&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
+- [Dashboard PR](https://console.cloud.google.com/monitoring/dashboards/builder/8b075304-589d-43ca-bd34-7357f2f9cfb4?project=cio-stackdriver-pr-7f46b3&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
 - [WHSIA Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-whsia)
 - [TMF635 Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-enterprise)
