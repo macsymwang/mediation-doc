@@ -21,14 +21,9 @@
 5. [tTime](https://go/ttime)
 
 ### Tools
-1. [Swagger editor](https://editor.swagger.io/)
-2. [Asana Todo](https://app.asana.com/0/home/1199136359795992)
-3. [Google Translate](https://translate.google.ca/)
-5. [Json Visio](https://jsonvisio.com/editor)
-6. [Json Viewer](https://jsonhero.io/)
-7. [Regular Expression](https://regex101.com/)
-8. [svg to png](https://cloudconvert.com/svg-to-png)
-9. [logo and badges](https://shields.io/)
+| [Swagger editor](https://editor.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) |
+| [Json Visio](https://jsonvisio.com/editor) | [Json Viewer](https://jsonhero.io/) | [Regular Expression](https://regex101.com/) |
+| [svg to png](https://cloudconvert.com/svg-to-png) | [logo and badges](https://shields.io/) | [multiline-to-single](https://tools.knowledgewalls.com/online-multiline-to-single-line-converter) |
    
 ### Cloud 
 1. [Cloud COE](https://sites.google.com/telus.com/cloudcoe/home) 
