@@ -61,6 +61,7 @@
 - [B2B NP GCS](https://console.cloud.google.com/storage/browser?project=cio-mediation-data-np-c0f674&prefix=)
 - [B2B NP Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/d6567607-cacf-49fa-8575-7c743f4cdbdd?project=cio-stackdriver-np-b75434&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
 - [B2B Terraform repository](https://github.com/telus/tf-infra-cio-mediation-data)
+- [Cloud Deploy](https://console.cloud.google.com/deploy/delivery-pipelines?referrer=search&project=cio-mediation-data-np-c0f674)
 
 ### B2B PR
 - [B2B Private PR Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cio-gke-private-yul-001-2396bd&pageState=(%22savedViews%22:(%22i%22:%22e2cf5cb11fab499989e04d2f388eace4%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22%5D)))
