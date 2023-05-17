@@ -20,7 +20,7 @@
 5. [tTime](https://go/ttime)
 
 ### Tools
-| [Swagger editor](https://editor.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) |
+| [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) |
 | [Json Visio](https://jsonvisio.com/editor) | [Json Viewer](https://jsonhero.io/) | [Regular Expression](https://regex101.com/) |
 | [svg to png](https://cloudconvert.com/svg-to-png) | [logo and badges](https://shields.io/) | [multiline-to-single](https://tools.knowledgewalls.com/online-multiline-to-single-line-converter) |
    
