@@ -41,6 +41,7 @@
 3. [DLQ and Platform Error Handler Service](dlqservice.md)
 4. [Stack driver](https://drive.google.com/file/d/1IKXLRY78IPJ3vnQAFahQevAQcIrkFghp/view?usp=sharing)
 5. [Jose's Documentation](https://drive.google.com/drive/folders/1uoynfR4ueX0MpTmNqytkXvYyhsjXU-bN)
+6. [CAMP Platform flow](https://app.diagrams.net/#G1o_h7mGxOu2O8vNgEcv8ncwSbEnWkXDg7)
 
 ## CAMP Env Links
 ### Common Libs
