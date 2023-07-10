@@ -14,15 +14,17 @@
 ## Personal
 ### Telus
 1. [Meeting List](meeting.md)
-2. [Openshift PT](https://paas-master-west-np.tsl.telus.com/console/project/mediation-usageapi-raw/overview)
-3. [Udemy](https://telus-2.udemy.com/organization/home/)
-4. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
-5. [tTime](https://go/ttime)
+2. [Udemy](https://telus-2.udemy.com/organization/home/)
+3. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
+4. [tTime](https://go/ttime)
+5. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues/MCI-177?filter=myopenissues)
+6. [Telus Developer](https://simplify.telus.com/)
 
 ### Tools
-| [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) |
-| [Json Visio](https://jsonvisio.com/editor) | [Json Viewer](https://jsonhero.io/) | [Regular Expression](https://regex101.com/) |
-| [svg to png](https://cloudconvert.com/svg-to-png) | [logo and badges](https://shields.io/) | [multiline-to-single](https://tools.knowledgewalls.com/online-multiline-to-single-line-converter) |
+| [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
+| [Json Visio](https://jsonvisio.com/editor) | [Json Viewer](https://jsonhero.io/) | [Regular Expression](https://regex101.com/) 
+| [svg to png](https://cloudconvert.com/svg-to-png) | [logo and badges](https://shields.io/) | [multiline-to-single](https://tools.knowledgewalls.com/
+| online-multiline-to-single-line-converter) |
    
 ### Cloud 
 1. [Cloud COE](https://sites.google.com/telus.com/cloudcoe/home) 
