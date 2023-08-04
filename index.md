@@ -51,7 +51,7 @@
 ### Common Libs
 - [Mediation Cloud Initiative Jira Board](https://jira.tsl.telus.com/secure/RapidBoard.jspa?projectKey=MCI&rapidView=6362)
 - [Spinnaker](https://spinnaker.cloudapps.telus.com/#/applications/mediation-data/executions) 
-- [Common Service Build](https://console.cloud.google.com/cloud-build/builds?project=cio-mediation-np-41371c)
+- [Common Service Build](https://console.cloud.google.com/cloud-build/builds;region=global?project=cio-mediation-np-41371c)
 - [cio-mediation-np](https://console.cloud.google.com/home/dashboard?project=cio-mediation-np-41371c)
 - [cio-mediation-springdf-lab](https://console.cloud.google.com/home/dashboard?project=cio-mediation-springdf-lab-3f)
 - [GCP Projects](gcpprojects.md)
