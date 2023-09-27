@@ -66,6 +66,7 @@
 - [Cloud Deploy](https://console.cloud.google.com/deploy/delivery-pipelines?referrer=search&project=cio-mediation-data-np-c0f674)
 - [BiqQuery](https://console.cloud.google.com/bigquery?project=cdo-datahub-mediation-np-55b8&ws=!1m0)
 - [B2B NP Dataflow](https://console.cloud.google.com/dataflow/jobs?project=cio-mediation-data-np-c0f674)
+- [Alert Policy](https://console.cloud.google.com/monitoring/alerting/policies?project=cio-stackdriver-np-b75434)
 
 ### B2B PR
 - [B2B Private PR Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cio-gke-private-yul-001-2396bd&pageState=(%22savedViews%22:(%22i%22:%22e2cf5cb11fab499989e04d2f388eace4%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22%5D)))
@@ -73,6 +74,7 @@
 - [B2B PR Pubsub](https://console.cloud.google.com/cloudpubsub/subscription/list?project=cio-mediation-data-pr-8087d8)
 - [B2B PR GCS](https://console.cloud.google.com/storage/browser?project=cio-mediation-data-pr-8087d8&prefix=)
 - [B2B PR Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/0705a23f-2e53-4d91-904b-8dd19d0b1894?project=cio-stackdriver-pr-7f46b3&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
+- [Alert Policy](https://console.cloud.google.com/monitoring/alerting/policies?project=cio-stackdriver-pr-7f46b3)
 
 ### TMF635 DV
 - [Stoplight](https://telus-next.stoplight.io/tsbt/usage-management-tmf635-entity/version%2F4.0)
