@@ -9,6 +9,7 @@
     - [B2B DV](#b2b-dv)
     - [B2B PR](#b2b-pr)
     - [TMF635 DV](#tmf635-dv)
+    - [NetOps](#netops)
 
 # Welcome to the Mascym documentations
 ## Personal
@@ -85,3 +86,8 @@
 - [Dashboard PR](https://console.cloud.google.com/monitoring/dashboards/builder/8b075304-589d-43ca-bd34-7357f2f9cfb4?project=cio-stackdriver-pr-7f46b3&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
 - [WHSIA Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-whsia)
 - [TMF635 Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-enterprise)
+
+### NetOps
+- [tu-nfv-cio-mediation-01-np](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-01-np) 
+- [tu-nfv-cio-mediation-02-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-02-pr)
+- [tu-nfv-cio-mediation-01-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-01-pr) 
