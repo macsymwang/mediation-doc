@@ -90,8 +90,8 @@
 
 ### NetOps
 - [tu-nfv-cio-mediation-01-np](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-01-np) 
-- [tu-nfv-cio-mediation-02-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-02-pr)
 - [tu-nfv-cio-mediation-01-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-01-pr) 
+- [tu-nfv-cio-mediation-02-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-02-pr)
 
 ### Prepaid
 - [cdo-mediation-prepaid-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-prepaid-np-899a)
