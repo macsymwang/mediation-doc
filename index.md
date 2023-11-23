@@ -15,12 +15,13 @@
 # Welcome to the Mascym documentations
 ## Personal
 ### Telus
-1. [Meeting List](meeting.md)
-2. [Udemy](https://telus-2.udemy.com/organization/home/)
-3. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
-4. [tTime](https://go/ttime)
-5. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues/MCI-177?filter=myopenissues)
-6. [Telus Developer](https://simplify.telus.com/)
+1. [Standup Meeting](https://meet.google.com/bdu-pdwq-bgj)
+2. [Meeting List](meeting.md)
+3. [Udemy](https://telus-2.udemy.com/organization/home/)
+4. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
+5. [tTime](https://go/ttime)
+6. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues/MCI-177?filter=myopenissues)
+7. [Telus Developer](https://simplify.telus.com/)
 
 ### Tools
 | [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
