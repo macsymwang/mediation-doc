@@ -20,7 +20,7 @@
 3. [Udemy](https://telus-2.udemy.com/organization/home/)
 4. [Linkedin Learning](https://www.linkedin.com/learning/?setupTimeGoal=false&showCongrats=false&u=2093516)
 5. [tTime](https://go/ttime)
-6. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues/MCI-177?filter=myopenissues)
+6. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues?filter=myopenissues)
 7. [Telus Developer](https://simplify.telus.com/)
 
 ### Tools
