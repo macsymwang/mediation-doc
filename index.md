@@ -39,6 +39,7 @@
 7. [Developer onBoard](onboard.md)
 8. [Cloud Braintrust](https://sites.google.com/telus.com/cloudbraintrust/home)
 9. [Migrating from OpenShift to Google Kubernetes Engine Playbook](https://github.com/telus/engineering-productivity/blob/main/flows-to-gcp/openshift-gke-flow.md)
+10. [Lab Project](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-poc-lab-3af725)
 
 ## CAMP Documentations
 1. [MediationCloudPlatform Drive](https://drive.google.com/drive/folders/0ACFC9yOWQ1duUk9PVA)
