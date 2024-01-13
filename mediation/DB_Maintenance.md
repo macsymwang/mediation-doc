@@ -4,9 +4,10 @@
   - [2. Create DB user postgreops](#2-create-db-user-postgreops)
   - [3. Create common components](#3-create-common-components)
   - [4. Create Project Schema, Roles and Tables](#4-create-project-schema-roles-and-tables)
-  - [6. Cloud Scheduler](#6-cloud-scheduler)
-  - [7. Cloud Function](#7-cloud-function)
-  - [8. Create new DB user account](#8-create-new-db-user-account)
+  - [6. Create Project partition maintenance store procedure](#6-create-project-partition-maintenance-store-procedure)
+  - [7. Cloud Scheduler](#7-cloud-scheduler)
+  - [8. Cloud Function](#8-cloud-function)
+  - [9. Create new DB user account](#9-create-new-db-user-account)
 
 # Introduction 
 This is document about Mediation CloudSQL postgre Database maintenance jobs like create common schema , tables and store procedure for table partition.
@@ -53,16 +54,32 @@ GRANT postgres TO postgresops;
 
 ## 4. Create Project Schema, Roles and Tables
 - ### login the database as ***postgresops***
+- ### create project schema, eg. ipadm
+- ### create project role, eg. ipdrm_read(read only) , ipdrm_all(all permissions) 
+- ### create project table and grant permission to project roles:
+  > Make sure table owner is ***postgresops***
 
-- ### create project schema
-  
-- ### create project role
-- ### create project table
+## 6. Create Project partition maintenance store procedure
+The project store procedure to do create , drop partition and remove old data job based on project requirement. your need create new or update partition maintenance procedure for project.
+Here are steps create project own procedure based on the example code [raw_partition_maintenance_example.sql](https://github.com/telus/cio-mediation-db-ddl/blob/master/mediation-common/camp/raw_partition_maintenance_example.sql).
+1. change in declare section for project schema and roles name, add more if you have more schemas and roles
+2. Update bill_cycle_code_list array if necessary, or you can create more array  
+3. change and add new tables to step 1 section.
+4. change and add new tables to step 2 section.
 
-## 6. Cloud Scheduler
+Then
+- ### login the database as ***postgresops***
+- ### create or update project store procedure
 
-## 7. Cloud Function
+## 7. Cloud Scheduler
 
-## 8. Create new DB user account
+
+## 8. Cloud Function
+
+## 9. Create new DB user account
 - [Steps to create WIF accounts for CAMP services to passwordless access to GCP resources and CLOUD sql
 ](https://docs.google.com/document/d/1xRPOuXNuonoZhSUP1vpN4VmiEkZyGtQGcB_jQIf4nGM/edit)
+- Grant WIF account to project role based on requirement.
+```
+GRANT ipdrm_all TO <WIF user name>;
+```
