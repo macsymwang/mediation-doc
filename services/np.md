@@ -2,6 +2,8 @@
 * [ccs-prepaid-stream-pubsub-edr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-stream-pubsub-edr-collection-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-microbatch-edr-process-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-microbatch-edr-process-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-microbatch-edr-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-microbatch-edr-storage-st/overview?project=cdo-gke-private-np-1a8686)
+* [ ccs-prepaid-pubsub-microbatch-edr-post-process-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-microbatch-edr-post-process-st/overview?project=cdo-gke-private-np-1a8686)
+* [netops-prepaid-edr-sftp-push-lab](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/netops-lab-01/mediation-control/netops-prepaid-edr-sftp-push-lab/overview?hl=en&project=tu-nfv-cio-mediation-01-np)
 
 ### CCS Voice TDR Stream
 * [ccs-prepaid-stream-pubsub-voice-tdr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-stream-pubsub-voice-tdr-collection-st/overview?project=cdo-gke-private-np-1a8686)
