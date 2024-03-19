@@ -27,7 +27,8 @@
 | [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
 | [Json Visio](https://jsonvisio.com/editor) | [Json Viewer](https://jsonhero.io/) | [Regular Expression](https://regex101.com/) 
 | [svg to png](https://cloudconvert.com/svg-to-png) | [logo and badges](https://shields.io/) | [multiline-to-single](https://tools.knowledgewalls.com/online-multiline-to-single-line-converter) | [Online editor](https://phcode.dev/) | [Json to Pojo](https://json2csharp.com/code-converters/json-to-pojo) 
-| [jsonschema2pojo](https://www.jsonschema2pojo.org/)
+| [jsonschema2pojo](https://www.jsonschema2pojo.org/) | [csv viewer](https://projectcsv.github.io/) | [json viewer](https://projectcsv.github.io/)
+| [Text compare](https://text-compare.netlify.app/) | [vscode web](https://vscode.dev/)
    
 ### Cloud 
 1. [Cloud COE](https://sites.google.com/telus.com/cloudcoe/home) 
