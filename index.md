@@ -1,4 +1,4 @@
-- [Welcome to the Mascym documentations](#welcome-to-the-mascym-documentations)
+- [Welcome to the Macsym documentations](#welcome-to-the-macsym-documentations)
   - [Personal](#personal)
     - [Telus](#telus)
     - [Tools](#tools)
@@ -12,7 +12,7 @@
     - [NetOps](#netops)
     - [Prepaid](#prepaid)
 
-# Welcome to the Mascym documentations
+# Welcome to the Macsym documentations
 ## Personal
 ### Telus
 1. [Standup Meeting](https://meet.google.com/bdu-pdwq-bgj)
@@ -22,6 +22,7 @@
 5. [tTime](https://go/ttime)
 6. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues?filter=myopenissues)
 7. [Telus Developer](https://simplify.telus.com/)
+8. [RPP](https://rpp.tsl.telus.com/team/my_dashboard.cfm?id=834154)
 
 ### Tools
 | [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
