@@ -3,6 +3,7 @@
   - [CCS Voice TDR Stream](#ccs-voice-tdr-stream)
   - [CCS SMS/MMS TDR Stream](#ccs-smsmms-tdr-stream)
   - [CCS Prepaid Traffic Control Stream](#ccs-prepaid-traffic-control-stream)
+  - [Common Service](#common-service)
 
 ## CCS Prepaid
 
@@ -32,3 +33,7 @@
 * [ccs-prepaid-pubsub-voice-tdr-stream-controller](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-voice-tdr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-sms-tdr-stream-controller](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-sms-tdr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-maint-edr-stream-controller](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-maint-edr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
+
+### Common Service
+* [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686)
+* [mediation-cloud-db-controller-service-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-db-controller-service-st/overview?project=cdo-gke-private-np-1a8686)
