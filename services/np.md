@@ -30,9 +30,11 @@
 * [netops-sms-prepaid-tdr-sftp-push-lab](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/netops-lab-01/mediation-control/netops-sms-prepaid-tdr-sftp-push-lab/overview?hl=en&project=tu-nfv-cio-mediation-01-np)
 
 ### CCS Prepaid Traffic Control Stream
+* [ccs-prepaid-pubsub-data-tdr-stream-controller-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-data-tdr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-voice-tdr-stream-controller](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-voice-tdr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-sms-tdr-stream-controller](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-sms-tdr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-maint-edr-stream-controller](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-maint-edr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
+* [ccs-prepaid-pubsub-threshold-edr-stream-controller-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-threshold-edr-stream-controller-st/overview?project=cdo-gke-private-np-1a8686)
 
 ### Common Service
 * [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686)
