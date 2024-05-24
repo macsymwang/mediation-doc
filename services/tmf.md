@@ -3,6 +3,8 @@
   - [PR ENV](#pr-env)
 - [IPDR TASK](#ipdr-task)
 - [TMF639](#tmf639)
+  - [NP ENV](#np-env-1)
+  - [PR ENV](#pr-env-1)
 
 ## TMF635
 ### NP ENV
@@ -25,5 +27,10 @@
 * [usage-management-mediation-task-ipdr-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-mediation-task-ipdr-pr/overview?project=cdo-gke-private-pr-7712d7)
 
 ## TMF639
+### NP ENV
+* [resource-inventory-management-tmf639-entity-enterprise-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/resource-inventory-management-tmf639-entity-enterprise-st/overview?project=cdo-gke-private-np-1a8686)
+* [resource-inventory-management-tmf639-entity-rc-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/resource-inventory-management-tmf639-entity-rc-st/overview?project=cdo-gke-private-np-1a8686)
 
-
+### PR ENV
+* [resource-inventory-management-tmf639-entity-enterprise-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/resource-inventory-management-tmf639-entity-enterprise-pr/overview?project=cdo-gke-private-pr-7712d7)
+* [resource-inventory-management-tmf639-entity-rc-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/resource-inventory-management-tmf639-entity-rc-pr/overview?project=cdo-gke-private-pr-7712d7)
