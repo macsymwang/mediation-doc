@@ -2,6 +2,7 @@
   - [NP ENV](#np-env)
   - [PR ENV](#pr-env)
 - [IPDR TASK](#ipdr-task)
+  - [Dashboard](#dashboard)
 - [TMF639](#tmf639)
   - [NP ENV](#np-env-1)
   - [PR ENV](#pr-env-1)
@@ -25,6 +26,9 @@
 ## IPDR TASK
 * [usage-management-mediation-task-ipdr-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-mediation-task-ipdr-st/overview?project=cdo-gke-private-np-1a8686)
 * [usage-management-mediation-task-ipdr-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-mediation-task-ipdr-pr/overview?project=cdo-gke-private-pr-7712d7)
+### Dashboard
+* [NP](https://console.cloud.google.com/monitoring/dashboards/builder/229ca107-a71c-4cd6-a8bf-7e25fb1ba493;duration=PT1H?project=cio-stackdriver-np-b75434)
+* [PR](https://console.cloud.google.com/monitoring/dashboards/builder/bc4cbfa2-58bd-43a5-bdb6-78b7d341c98a;duration=PT1H?project=cio-stackdriver-pr-7f46b3)
 
 ## TMF639
 ### NP ENV
