@@ -40,8 +40,8 @@
 ### CCS Prepaid Firestore Stream
 * [ccs-prepaid-pubsub-firestore-data-tdr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-data-tdr-collection-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-pubsub-firestore-sms-tdr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-sms-tdr-collection-st/overview?project=cdo-gke-private-np-1a8686)
-* * [ccs-prepaid-pubsub-firestore-voice-tdr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-voice-tdr-collection-st/overview?project=cdo-gke-private-np-1a8686)
-
+* [ccs-prepaid-pubsub-firestore-voice-tdr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-voice-tdr-collection-st/overview?project=cdo-gke-private-np-1a8686)
+* [ccs-prepaid-pubsub-firestore-data-medr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-data-medr-collection-st/overview?project=cdo-gke-private-np-1a8686)
 
 ### Common Service
 * [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686)
