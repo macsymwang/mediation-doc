@@ -44,6 +44,7 @@
 * [ccs-prepaid-pubsub-firestore-maint-edr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-maint-edr-collection-st/overview?project=cdo-gke-private-np-1a8686) 
 * [ccs-prepaid-pubsub-firestore-threshold-edr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-threshold-edr-collection-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-microbatch-tdr-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-microbatch-tdr-firestore-storage-st/overview?project=cdo-gke-private-np-1a8686)
+* [ccs-prepaid-microbatch-edr-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-microbatch-edr-firestore-storage-st/overview?project=cdo-gke-private-np-1a8686)
 
 ### Common Service
 * [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686)
