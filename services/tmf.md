@@ -12,6 +12,7 @@
 * [usage-management-tmf635-entity-enterprise-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-enterprise-pr/overview?project=cdo-gke-private-pr-7712d7)
 * [usage-management-tmf635-entity-whsia-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-whsia-pr/overview?project=cdo-gke-private-pr-7712d7) : 
   > WLS_RATED_WHSIA_USAGE_SUMMARY , WLS_RATED_WHSIA_USAGE_DETAILS
+* [usage-management-tmf635-entity-ipdr-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-ipdr-pr/overview?project=cdo-gke-private-pr-7712d7)
 * [usage-management-tmf635-entity-ipdr-batch-raw-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-ipdr-batch-raw-pr/overview?project=cdo-gke-private-pr-7712d7) :
   > WLS_RAW_USAGE_DETAILS_IP_LKP
 * [usage-management-tmf635-entity-ipdr-batch-whsia-raw-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-ipdr-batch-whsia-raw-pr/overview?project=cdo-gke-private-pr-7712d7)
