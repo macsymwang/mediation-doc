@@ -1,6 +1,7 @@
 - [Welcome to the Macsym documentations](#welcome-to-the-macsym-documentations)
   - [Personal](#personal)
     - [Telus](#telus)
+      - [9. GCP Projects List](#9-gcp-projects-list)
     - [Tools](#tools)
     - [Cloud](#cloud)
   - [CAMP Documentations](#camp-documentations)
@@ -9,9 +10,6 @@
     - [B2B DV](#b2b-dv)
     - [B2B PR](#b2b-pr)
     - [TMF635 DV](#tmf635-dv)
-    - [NetOps](#netops)
-    - [Prepaid](#prepaid)
-    - [RAW](#raw)
 
 # Welcome to the Macsym documentations
 ## Personal
@@ -24,7 +22,7 @@
 6. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues?filter=myopenissues)
 7. [Telus Developer](https://simplify.telus.com/)
 8. [RPP](https://rpp.tsl.telus.com/team/my_dashboard.cfm?id=834154)
-9. [GCP Projects List](projects.md)
+#### 9. [GCP Projects List](projects.md)
 
 ### Tools
 | [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
