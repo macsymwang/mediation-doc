@@ -24,6 +24,7 @@
 6. [JIRA](https://jira.tsl.telus.com/projects/MCI/issues?filter=myopenissues)
 7. [Telus Developer](https://simplify.telus.com/)
 8. [RPP](https://rpp.tsl.telus.com/team/my_dashboard.cfm?id=834154)
+9. [GCP Projects List](projects.md)
 
 ### Tools
 | [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
@@ -93,14 +94,3 @@
 - [WHSIA Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-whsia)
 - [TMF635 Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-enterprise)
 
-### NetOps
-- [tu-nfv-cio-mediation-01-np](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-01-np) 
-- [tu-nfv-cio-mediation-01-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-01-pr) 
-- [tu-nfv-cio-mediation-02-pr](https://console.cloud.google.com/home/dashboard?hl=en&project=tu-nfv-cio-mediation-02-pr)
-
-### Prepaid
-- [cdo-mediation-prepaid-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-prepaid-np-899a)
-- [cdo-mediation-prepaid-pr](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-prepaid-pr-b0dc)
-
-### RAW
-- [cdo-mediation-data-raw-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-data-raw-np-b1b6)
