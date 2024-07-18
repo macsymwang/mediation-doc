@@ -1,12 +1,20 @@
 - [CCS Prepaid](#ccs-prepaid)
+  - [](#)
+- [SGSN](#sgsn)
   - [CCS Prepaid EDR Stream](#ccs-prepaid-edr-stream)
   - [CCS Prepaid Voice TDR Stream](#ccs-prepaid-voice-tdr-stream)
   - [CCS Prepaid SMS/MMS TDR Stream](#ccs-prepaid-smsmms-tdr-stream)
   - [CCS Prepaid Traffic Control Stream](#ccs-prepaid-traffic-control-stream)
   - [CCS Prepaid Firestore Stream](#ccs-prepaid-firestore-stream)
-  - [Common Service](#common-service)
+- [CCS whsia](#ccs-whsia)
+- [Common Service](#common-service)
 
 ## CCS Prepaid
+### 
+
+## SGSN
+* [netops-sgw-sgsn-sftp-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/netops-lab-01/mediation-control/netops-sgw-sgsn-sftp-collection-st/overview?project=tu-nfv-cio-mediation-01-pr)
+* [sgw-sgsn-ext-pubsub-raw-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-ext-pubsub-raw-collection-st/overview?project=cdo-gke-private-np-1a8686)
 
 ### CCS Prepaid EDR Stream
 * [ccs-prepaid-stream-pubsub-edr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-stream-pubsub-edr-collection-st/overview?project=cdo-gke-private-np-1a8686)
@@ -46,6 +54,9 @@
 * [ccs-prepaid-microbatch-tdr-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-microbatch-tdr-firestore-storage-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-microbatch-edr-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-microbatch-edr-firestore-storage-st/overview?project=cdo-gke-private-np-1a8686)
 
-### Common Service
+## CCS whsia
+
+
+## Common Service
 * [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686)
 * [mediation-cloud-db-controller-service-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-db-controller-service-st/overview?project=cdo-gke-private-np-1a8686)
