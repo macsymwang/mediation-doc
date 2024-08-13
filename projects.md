@@ -14,6 +14,7 @@
 
 ### RAW
 - [cdo-mediation-data-raw-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-data-raw-np-b1b6)
+- [cdo-mediation-data-raw-pr](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-data-raw-pr-8e40)
 
 ### Data hub
 - [cdo-datahub-mediation-np](https://console.cloud.google.com/home/dashboard?project=cdo-datahub-mediation-np-55b8)
