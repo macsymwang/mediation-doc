@@ -3,7 +3,7 @@
   - [CCS WHSIA BLOCK EDR Stream](#ccs-whsia-block-edr-stream)
   - [CCS WHSIA MAINT EDR Stream](#ccs-whsia-maint-edr-stream)
   - [CCS WHSIA Firestore Stream](#ccs-whsia-firestore-stream)
-- [SGSN](#sgsn)
+- [SGSN  Dashboard](#sgsn--dashboard)
 - [CCS Prepaid](#ccs-prepaid)
   - [CCS Prepaid EDR Stream](#ccs-prepaid-edr-stream)
   - [CCS Prepaid Voice TDR Stream](#ccs-prepaid-voice-tdr-stream)
@@ -44,7 +44,7 @@
 * [ccs-pubsub-microbatch-edr-block-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pubsub-microbatch-edr-block-firestore-storage-st/overview?authuser=0&project=cdo-gke-private-np-1a8686)
 
 
-## SGSN
+## SGSN  [Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/d5d20af4-3016-424b-acc9-8bb34cbbeb7b;duration=PT1H?project=cio-stackdriver-np-b75434&pageState=(%22events%22:(%22active%22:%5B%22CLOUD_ALERTING_ALERT%22,%22GKE_WORKLOAD_DEPLOYMENT%22,%22CLOUD_SQL_STORAGE%22%5D,%22inactive%22:%5B%5D)))
 * [netops-sgw-sgsn-sftp-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/netops-lab-01/mediation-control/netops-sgw-sgsn-sftp-collection-st/overview?project=tu-nfv-cio-mediation-01-pr)
 * [sgw-sgsn-ext-pubsub-raw-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-ext-pubsub-raw-collection-st/overview?project=cdo-gke-private-np-1a8686)
 * [sgw-sgsn-pubsub-mb-raw-data-load-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-pubsub-mb-raw-data-load-st/overview?project=cdo-gke-private-np-1a8686)
