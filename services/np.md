@@ -48,7 +48,7 @@
 * [netops-sgw-sgsn-sftp-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/netops-lab-01/mediation-control/netops-sgw-sgsn-sftp-collection-st/overview?project=tu-nfv-cio-mediation-01-pr)
 * [sgw-sgsn-ext-pubsub-raw-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-ext-pubsub-raw-collection-st/overview?project=cdo-gke-private-np-1a8686)
 * [sgw-sgsn-pubsub-mb-raw-data-load-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-pubsub-mb-raw-data-load-st/overview?project=cdo-gke-private-np-1a8686)
-* [sgw-sgsn-pubsub-mb-raw-tostream-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-pubsub-mb-raw-tostream-st/overview?project=cdo-gke-private-np-1a8686)
+* [sgw-sgsn-pubsub-mb-raw-bq-load-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/sgw-sgsn-pubsub-mb-raw-bq-load-st/overview?project=cdo-gke-private-np-1a8686)
 
 ## CCS Prepaid
 
