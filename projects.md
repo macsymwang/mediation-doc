@@ -19,3 +19,6 @@
 ### Data hub
 - [cdo-datahub-mediation-np](https://console.cloud.google.com/home/dashboard?project=cdo-datahub-mediation-np-55b8)
 - [cdo-datahub-mediation-pr](https://console.cloud.google.com/home/dashboard?project=cdo-datahub-mediation-pr-5a1a)
+
+### Rated 
+- [cdo-mediation-data-rated-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-data-rated-np-0d)
