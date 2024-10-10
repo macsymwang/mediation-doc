@@ -3,7 +3,7 @@
 - [CCS WHSIA Dashboard](#ccs-whsia-dashboard)
   - [CCS WHSIA Data TDR](#ccs-whsia-data-tdr)
   - [CCS WHSIA Maint EDR](#ccs-whsia-maint-edr)
-  - [SGSN](#sgsn)
+  - [SGSN Dashboard](#sgsn-dashboard)
 
 ## SGW
 
