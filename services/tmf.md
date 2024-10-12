@@ -7,6 +7,7 @@
 * [usage-management-tmf635-entity-threshold-topup-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-threshold-topup-st/overview?project=cdo-gke-private-np-1a8686)
 * [usage-management-tmf635-entity-ipdr-batch-raw-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-ipdr-batch-raw-st/overview?project=cdo-gke-private-np-1a8686)
 * [usage-management-tmf635-entity-ipdr-batch-whsia-raw-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-ipdr-batch-whsia-raw-st/overview?project=cdo-gke-private-np-1a8686)
+* [usage-management-tmf635-entity-iplookup-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-iplookup-st/overview?project=cdo-gke-private-np-1a8686)
 
 ### PR ENV | [Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/8b075304-589d-43ca-bd34-7357f2f9cfb4?project=cio-stackdriver-pr-7f46b3&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1h)
 * [usage-management-tmf635-entity-enterprise-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-usage/usage-management-tmf635-entity-enterprise-pr/overview?project=cdo-gke-private-pr-7712d7)
