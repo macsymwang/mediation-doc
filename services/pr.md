@@ -7,7 +7,6 @@
   - [CCS WHSIA Data TDR](#ccs-whsia-data-tdr)
   - [CCS WHSIA Maint EDR](#ccs-whsia-maint-edr)
   - [CCS WHSIA Firestore Stream](#ccs-whsia-firestore-stream)
-  - [CCS WHSIA Firestore Stream](#ccs-whsia-firestore-stream-1)
 - [SGSN Dashboard](#sgsn-dashboard)
   - [SGSN](#sgsn)
 
@@ -40,7 +39,6 @@
 * [ccs-pbsstr-data-maint-edr-processing-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pbsstr-data-maint-edr-processing-pr/overview?project=cdo-gke-private-pr-7712d7)
 * [ccs-pbs-mb-edr-maint-storage-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pbs-mb-edr-maint-storage-pr/overview?project=cdo-gke-private-pr-7712d7)
 
-### CCS WHSIA Firestore Stream
 ### CCS WHSIA Firestore Stream
 * [ccs-prream-pubsub-firestore-tdr-collection-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prream-pubsub-firestore-tdr-collection-pr/overview?authuser=0&project=cdo-gke-private-pr-7712d7)
 * [ccs-prream-pubsub-firestore-tier-tdr-collection-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prream-pubsub-firestore-tier-tdr-collection-pr/overview?authuser=0&project=cdo-gke-private-pr-7712d7)
