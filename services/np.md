@@ -10,7 +10,7 @@
   - [CCS Prepaid SMS/MMS TDR Stream](#ccs-prepaid-smsmms-tdr-stream)
   - [CCS Prepaid Traffic Control Stream](#ccs-prepaid-traffic-control-stream)
   - [CCS Prepaid Firestore Stream](#ccs-prepaid-firestore-stream)
-- [CCS whsia](#ccs-whsia)
+- [Ericson DMC PGW(EDMC)](#ericson-dmc-pgwedmc)
 - [Common Service](#common-service)
 
 ## CCS WHSIA [Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/1d377a4b-e402-4ae4-8e1e-82282b9ce200;duration=PT1H?inv=1&invt=AbfjKg&project=cio-stackdriver-np-b75434&pageState=(%22eventTypes%22:(%22selected%22:%5B%22CLOUD_ALERTING_ALERT%22,%22GKE_WORKLOAD_DEPLOYMENT%22,%22CLOUD_SQL_STORAGE%22%5D)))
@@ -90,8 +90,8 @@
 * [ccs-prepaid-microbatch-tdr-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-microbatch-tdr-firestore-storage-st/overview?project=cdo-gke-private-np-1a8686)
 * [ccs-prepaid-microbatch-edr-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-microbatch-edr-firestore-storage-st/overview?project=cdo-gke-private-np-1a8686)
 
-## CCS whsia
-
+## Ericson DMC PGW(EDMC)
+* [pgw-edmc-data-raw-microbatch-dedupprocessor-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/pgw-edmc-data-raw-microbatch-dedupprocessor-st/overview?project=cdo-gke-private-np-1a8686)
 
 ## Common Service
 * [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686)
