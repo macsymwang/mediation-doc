@@ -1,5 +1,5 @@
 {
-    "namespace": "mediation-usage",
+    "namespace": "mediation-data",
     "input_file": "./services/new.md",
     "output_file": "np_modified.md"
 }
