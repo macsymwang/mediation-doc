@@ -1,1 +1,1 @@
-* [ccs-stream-pubsub-firestore-edr-failure-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-stream-pubsub-firestore-edr-failure-collection-st/overview?authuser=0&project=cdo-gke-private-np-1a8686)
+* [ccs-prepaid-pubsub-firestore-failure-edr-collection-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-prepaid-pubsub-firestore-failure-edr-collection-st/overview?project=cdo-gke-private-np-1a8686) 
