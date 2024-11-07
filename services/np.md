@@ -3,6 +3,7 @@
   - [CCS WHSIA BLOCK EDR Stream](#ccs-whsia-block-edr-stream)
   - [CCS WHSIA MAINT EDR Stream](#ccs-whsia-maint-edr-stream)
   - [CCS WHSIA Firestore Stream](#ccs-whsia-firestore-stream)
+  - [CCS WHSIA Report](#ccs-whsia-report)
 - [SGSN  Dashboard](#sgsn--dashboard)
 - [CCS Prepaid](#ccs-prepaid)
   - [CCS Prepaid EDR Stream](#ccs-prepaid-edr-stream)
@@ -62,6 +63,12 @@
 [log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pubsub-microbatch-edr-maint-firestore-storage-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
 * [ccs-pubsub-microbatch-edr-block-firestore-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pubsub-microbatch-edr-block-firestore-storage-st/overview?authuser=0&project=cdo-gke-private-np-1a8686)
 [log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pubsub-microbatch-edr-block-firestore-storage-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
+
+### CCS WHSIA Report
+* [ccs-pubsub-db-extraction-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pubsub-db-extraction-st/overview?project=cdo-gke-private-np-1a8686)
+[log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pubsub-db-extraction-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
+* [ccs-pubsub-report-publisher-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pubsub-report-publisher-st/overview?project=cdo-gke-private-np-1a8686) 
+[log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pubsub-report-publisher-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
 
 
 ## SGSN  [Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/d5d20af4-3016-424b-acc9-8bb34cbbeb7b;duration=PT1H?project=cio-stackdriver-np-b75434&pageState=(%22events%22:(%22active%22:%5B%22CLOUD_ALERTING_ALERT%22,%22GKE_WORKLOAD_DEPLOYMENT%22,%22CLOUD_SQL_STORAGE%22%5D,%22inactive%22:%5B%5D)))
