@@ -12,6 +12,7 @@
   - [CCS Prepaid Traffic Control Stream](#ccs-prepaid-traffic-control-stream)
   - [CCS Prepaid Firestore Stream](#ccs-prepaid-firestore-stream)
 - [Ericson DMC PGW(EDMC)](#ericson-dmc-pgwedmc)
+- [Ericson SGW](#ericson-sgw)
 - [Common Service](#common-service)
 
 ## CCS WHSIA [Dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/1d377a4b-e402-4ae4-8e1e-82282b9ce200;duration=PT1H?inv=1&invt=AbfjKg&project=cio-stackdriver-np-b75434&pageState=(%22eventTypes%22:(%22selected%22:%5B%22CLOUD_ALERTING_ALERT%22,%22GKE_WORKLOAD_DEPLOYMENT%22,%22CLOUD_SQL_STORAGE%22%5D)))
@@ -27,7 +28,7 @@
 [log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pbs-mb-tdr-matrixx-storage-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
 * [ccs-pbs-mb-filtered-tdr-storage-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pbs-mb-filtered-tdr-storage-st/overview?authuser=0&project=cdo-gke-private-np-1a8686)
 [log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pbs-mb-filtered-tdr-storage-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
-* [ccs-pbs-mb-tdr-tostream-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pbs-mb-tdr-tostream-st/overview?authuser=0&project=cdo-gke-private-np-1a8686)
+* [ccs-pbs-mb-tdr-tostream-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pbs-mb-tdr-tostream-st/overview?authuser=0&project=cdo-gke-private-np-1a8686) 
 [log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ccs-pbs-mb-tdr-tostream-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
 
 ### CCS WHSIA BLOCK EDR Stream
@@ -153,6 +154,10 @@
 ## Ericson DMC PGW(EDMC)
 * [pgw-edmc-data-raw-microbatch-dedupprocessor-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/pgw-edmc-data-raw-microbatch-dedupprocessor-st/overview?project=cdo-gke-private-np-1a8686)
 [log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22pgw-edmc-data-raw-microbatch-dedupprocessor-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
+
+## Ericson SGW
+* [ericsson-sgw-pubsub-mb-raw-ext-load-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ericsson-sgw-pubsub-mb-raw-ext-load-st/overview?project=cdo-gke-private-np-1a8686) 
+[log](https://console.cloud.google.com/logs/query;duration=PT1H;query=resource.type%3D%22k8s_container%22%0Aresource.labels.project_id%3D%22cdo-gke-private-np-1a8686%22%0Aresource.labels.location%3D%22northamerica-northeast1%22%0Aresource.labels.cluster_name%3D%22private-na-ne1-001%22%0Aresource.labels.namespace_name%3D%22mediation-data%22%0Aresource.labels.container_name%3D%22ericsson-sgw-pubsub-mb-raw-ext-load-st%22;storageScope=storage,projects%2Fcio-logging-storage-1b866dc7%2Flocations%2Fnorthamerica-northeast1%2Fbuckets%2Flogsink_bucket_kitchen_sink%2Fviews%2F_AllLogs?project=cio-logging-storage-1b866dc7)
 
 ## Common Service
 * [mediation-cloud-peh-service-pubsub-st](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-peh-service-pubsub-st/overview?project=cdo-gke-private-np-1a8686) 
