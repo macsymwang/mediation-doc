@@ -26,3 +26,7 @@
 ### Wireline
 - [cdo-mediation-wireline-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-wireline-np-b3cb)
 - [cdo-mediation-wireline-pr](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-wireline-pr-6ee9)
+
+### Lab
+- [cdo-mediation-aut-24-lab](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-aut-24-lab-94db)
+- [cio-mediation-2501-lab](https://console.cloud.google.com/home/dashboard?project=cio-mediation-2501-lab-7954ea)
