@@ -34,4 +34,5 @@
 - ### Lab
 - [cdo-mediation-aut-24-lab](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-aut-24-lab-94db)
 - [cio-mediation-2501-lab](https://console.cloud.google.com/home/dashboard?project=cio-mediation-2501-lab-7954ea)
+- [cdo-mediation-ai-252-lab](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-ai-252-lab-ec73&inv=1&invt=AbzaeQ)
 
