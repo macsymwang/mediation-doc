@@ -22,6 +22,7 @@
 7. [Telus Developer](https://simplify.telus.com/)
 8. [RPP](https://rpp.tsl.telus.com/team/my_dashboard.cfm?id=834154)
 9. [GCP Projects List](projects.md)
+10. [telus-techstrategy](https://telus-techstrategy.atlassian.net)
 
 ### Tools
 | [Swagger editor](https://editor-next.swagger.io/) | [Asana Todo](https://app.asana.com/0/home/1199136359795992) | [Google Translate](https://translate.google.ca/) 
