@@ -22,7 +22,8 @@
 
 ### DB Extraction
 * [mediation-cloud-db-controller-service-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-control/mediation-cloud-db-controller-service-pr/overview?inv=1&invt=AbeY9A&project=cdo-gke-private-pr-7712d7)
-
+* [ccs-pubsub-db-extraction-pr](https://console.cloud.google.com/kubernetes/deployment/northamerica-northeast1/private-na-ne1-001/mediation-data/ccs-pubsub-db-extraction-pr/overview?project=cdo-gke-private-pr-7712d7)
+  
 ## SGW
 
 ### SGW Stream
