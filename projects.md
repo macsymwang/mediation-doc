@@ -1,3 +1,7 @@
+### Common for CCOE
+- [cio-stackdriver-np](https://console.cloud.google.com/monitoring/dashboards?project=cio-stackdriver-np-b75434)
+- [cio-stackdriver-pr](https://console.cloud.google.com/monitoring/dashboards?project=cio-stackdriver-pr-7f46b3)
+
 ### Mediation Data
 - [cio-mediation-data-np](https://console.cloud.google.com/home/dashboard?project=cio-mediation-data-np-c0f674)
 - [cio-mediation-data-pr](https://console.cloud.google.com/home/dashboard?project=cio-mediation-data-pr-8087d8)
@@ -31,7 +35,7 @@
 - [cdo-mediation-data-raw-np](https://console.cloud.google.com/home/dashboard?invt=Abuq9g&project=cdo-mediation-data-raw-np-b1b6)
 - [cdo-mediation-data-raw-pr](https://console.cloud.google.com/home/dashboard?invt=Abuq9g&project=cdo-mediation-data-raw-pr-8e40)
   
-- ### Lab
+### Lab
 - [cdo-mediation-aut-24-lab](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-aut-24-lab-94db)
 - [cio-mediation-2501-lab](https://console.cloud.google.com/home/dashboard?project=cio-mediation-2501-lab-7954ea)
 - [cdo-mediation-ai-252-lab](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-ai-252-lab-ec73&inv=1&invt=AbzaeQ)
