@@ -9,6 +9,7 @@
     - [B2B DV](#b2b-dv)
     - [B2B PR](#b2b-pr)
     - [TMF635 DV](#tmf635-dv)
+    - [Mediation Links](#mediation-links)
 
 # Welcome to the Macsym documentations
 ## Personal
@@ -92,3 +93,6 @@
 - [WHSIA Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-whsia)
 - [TMF635 Github](https://github.com/telus/cio-mediation-usage-management-tmf635-entity-enterprise)
 
+### Mediation Links
+- [Mediation Data NP Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cdo-gke-private-np-1a8686&pageState=(%22savedViews%22:(%22i%22:%2223bbc92a158d4eddb55ed18fee839b87%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22,%22mediation-usage%22,%22mediation-control%22,%22mediation-data-rated%22,%22mediation-external%22,%22mediation-wireline%22%5D),%22workload_list_table%22:(%22f%22:%22%255B%257B_22k_22_3A_22Is%2520system%2520object_22_2C_22t_22_3A11_2C_22v_22_3A_22_5C_22False_~*false_5C_22_22_2C_22i_22_3A_22is_system_22%257D%255D%22)))
+- [Mediation Data PR Cluster](https://console.cloud.google.com/kubernetes/workload/overview?project=cdo-gke-private-pr-7712d7&pageState=(%22savedViews%22:(%22i%22:%2223bbc92a158d4eddb55ed18fee839b87%22,%22c%22:%5B%5D,%22n%22:%5B%22mediation-data%22,%22mediation-usage%22,%22mediation-control%22,%22mediation-data-rated%22,%22mediation-external%22,%22mediation-wireline%22%5D),%22workload_list_table%22:(%22s%22:%5B(%22i%22:%22metadata%2Fname%22,%22s%22:%221%22)%5D)))
