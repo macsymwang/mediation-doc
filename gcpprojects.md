@@ -1,4 +1,8 @@
-- [cio-mediation-np](https://console.cloud.google.com/home/dashboard?project=cio-mediation-np-41371c)
-- [cio-mediation-data-np](https://console.cloud.google.com/home/dashboard?project=cio-mediation-data-np-c0f674)
-- [cio-mediation-data-pr](https://console.cloud.google.com/home/dashboard?project=cio-mediation-data-pr-8087d8)
-- [cio-mediation-springdf-lab](https://console.cloud.google.com/home/dashboard?project=cio-mediation-springdf-lab-3f)
+### Migration
+- [cio-pstpd-sub-migration-np](https://console.cloud.google.com/home/dashboard?project=cio-pstpd-sub-migration-np-99)
+- [cio-pstpd-sub-migration-pr](https://console.cloud.google.com/home/dashboard?project=cdo-pstpd-sub-migration-pr-2f)
+
+
+### Rating and Charging
+- [cdo-ratingcharging-svc-np](https://console.cloud.google.com/home/dashboard?project=cdo-ratingcharging-svc-np-39c1)
+- [cdo-ratingcharging-svc-pr](https://console.cloud.google.com/home/dashboard?project=cdo-ratingcharging-svc-pr-9c)
