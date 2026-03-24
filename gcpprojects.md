@@ -9,3 +9,8 @@
 
 ### BI and Analytics
 - [wb-ccs-comparison-pr](https://console.cloud.google.com/bigquery?project=wb-ccs-comparison-pr-898ec5)
+- [bi-stg-ccs-compare-pr](https://console.cloud.google.com/home/dashboard?project=bi-stg-ccs-compare-pr-d30ec2)
+- [bi-srv-ccs-compare-pr](https://console.cloud.google.com/home/dashboard?project=bi-srv-ccs-compare-pr-cf8257)
+  
+### Github projects
+- [bi-ccs-compare](https://github.com/telus/bi-ccs-compare)
