@@ -11,11 +11,14 @@
 - [bi-stg-ccs-compare-pr](https://console.cloud.google.com/home/dashboard?project=bi-stg-ccs-compare-pr-d30ec2)
 - [bi-srv-ccs-compare-pr](https://console.cloud.google.com/home/dashboard?project=bi-srv-ccs-compare-pr-cf8257)
   
-### Github projects
-- [bi-ccs-compare](https://github.com/telus/bi-ccs-compare)
-
 ### Reference
 - [cdo-pstpd-refdatasync-np](https://console.cloud.google.com/home/dashboard?project=cdo-pstpd-refdatasync-np-fd6d)
   
 ### Matrixx
 - Sandbox:[tu-nfv-ccs-matrixx-02-np](https://console.cloud.google.com/welcome?project=tu-nfv-ccs-matrixx-02-np)
+
+### CCS Rating Profile Loading
+- [cdo-ccs-ratingprofile-np](https://console.cloud.google.com/welcome?project=cdo-ccs-ratingprofile-np-e707)
+
+### Github projects
+- [bi-ccs-compare](https://github.com/telus/bi-ccs-compare)
