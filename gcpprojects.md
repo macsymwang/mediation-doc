@@ -19,6 +19,7 @@
 
 ### CCS Rating Profile Loading
 - [cdo-ccs-ratingprofile-np](https://console.cloud.google.com/welcome?project=cdo-ccs-ratingprofile-np-e707)
+- [cdo-ccs-ratingprofile-pr](https://console.cloud.google.com/welcome?project=cdo-ccs-ratingprofile-pr-5487)
 
 ### Github projects
 - [bi-ccs-compare](https://github.com/telus/bi-ccs-compare)
