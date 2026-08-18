@@ -26,6 +26,7 @@
 
 ### Rated 
 - [cdo-mediation-data-rated-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-data-rated-np-0d)
+- [cdo-mediation-data-rated-pr](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-data-rated-pr-b7)
 
 ### Wireline
 - [cdo-mediation-wireline-np](https://console.cloud.google.com/home/dashboard?project=cdo-mediation-wireline-np-b3cb)
