@@ -21,5 +21,9 @@
 - [cdo-ccs-ratingprofile-np](https://console.cloud.google.com/welcome?project=cdo-ccs-ratingprofile-np-e707)
 - [cdo-ccs-ratingprofile-pr](https://console.cloud.google.com/welcome?project=cdo-ccs-ratingprofile-pr-5487)
 
+### CCS Converged Charging
+- [cio-converged-charging-np](https://console.cloud.google.com/welcome?project=cio-converged-charging-np-72ca)
+- [cio-converged-charging-pr](https://console.cloud.google.com/welcome?project=cio-converged-charging-pr-5a26)
+
 ### Github projects
 - [bi-ccs-compare](https://github.com/telus/bi-ccs-compare)
